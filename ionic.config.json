@@ -1,5 +1,7 @@
 {
   "name": "bgdomimg",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
